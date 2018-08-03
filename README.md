@@ -11,9 +11,9 @@ A Poem of the Day Server Java
  * This program uses Java(TM) SE Runtime Environment (build 9.0.4+11)
 
   Compiling and running instructions
-  Change to the directory containing the source code.
-  Move poems.txt into directory containing source code.
-  Compile:    javac PoDServer.java
-  Run:        java PoDServer
-  To view with telnet client: telnet localhost 12900
-  Document:   javadoc PoDServer.java
+1) Navigate to Directory containing source code.
+2) Move poems.txt into directory containing source code.
+3) Compile: javac PoDServer.java
+4) Run: Java PoDServer
+5) To view with telnet client: telnet (host) (port)
+6) Documentation: javadoc PoDserver.java
